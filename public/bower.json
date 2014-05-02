@@ -1,0 +1,22 @@
+{
+  "name": "hello yes this is dog",
+  "version": "0.0.1",
+  "authors": [
+    "4m4t3ur <m@multiverse.im>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "html5shiv": "~3.7.0",
+    "jquery": "~2.1.0",
+    "respond": "~1.4.2",
+    "requirejs": "~2.1.11",
+    "bootstrap": "~3.1.1"
+  }
+}

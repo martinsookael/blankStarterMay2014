@@ -25,5 +25,5 @@ function notifyLivereload(event) {
 
 gulp.task('default', function () {
   startLivereload();
-  gulp.watch('./public/*.html', notifyLivereload);
+  gulp.watch('./public/**/*.*', notifyLivereload);
 });

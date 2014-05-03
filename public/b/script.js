@@ -13,6 +13,6 @@ define(["jQuery", "html5shiv", "respond", "bootstrap", "angular", "angular-route
 });
 
 // shortcut for console.log
-function cl(data) {
+function cl(data) { 
     console.log(data);
 }

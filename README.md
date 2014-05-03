@@ -27,7 +27,7 @@ brings HTML5 to IE
 
 JQUERY + BOOTSTRAP + ANGULAR + ANGULAR ROUTE  
 These guys do what they've always done.  
-As a side note - Bootstrap also DOES a CSS reset.  
+As a side note - Bootstrap also does a CSS reset.  
 
 
 STARTING UP  

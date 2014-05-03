@@ -12,8 +12,6 @@ function startLivereload() {
 
 function notifyLivereload(event) {
 
-  // `gulp.watch()` events provide an absolute path
-  // so we need to make it relative to the server root
   var fileName = require('path').relative(EXPRESS_ROOT, event.path);
 
   lr.changed({

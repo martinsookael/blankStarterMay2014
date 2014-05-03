@@ -1,1 +1,1 @@
-web: node kender.js
+web: node app.js

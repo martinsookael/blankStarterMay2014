@@ -1,7 +1,7 @@
 requirejs.config({
     "baseUrl": "b",
     "shim": {
-        "bootstrap": ["jquery"]
+        "bootstrap": ["jquery.min"]
     }
 });
 

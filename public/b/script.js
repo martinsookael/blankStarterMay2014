@@ -2,6 +2,7 @@
 //Load Web App JavaScript Dependencies/Plugins
 define(["jQuery", "html5shiv", "respond", "bootstrap", "angular", "angular-route"], function($) {
   jQuery(function() {
+
     $ = jQuery; // Yeah, if you would just know anouther way how to do it that would be great!
 
     // instead of these tests write your own code
@@ -13,6 +14,6 @@ define(["jQuery", "html5shiv", "respond", "bootstrap", "angular", "angular-route
 });
 
 // shortcut for console.log
-function cl(data) { 
+function cl(data) {
     console.log(data);
 }

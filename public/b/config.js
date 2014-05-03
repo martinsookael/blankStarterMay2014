@@ -7,9 +7,6 @@ requirejs.config({
       'bootstrap': 'bootstrap/dist/js/bootstrap.min',
       'angular': 'angular/angular.min',
       'angular-route': 'angular-route/angular-route.min'
-
-      //'angular': '//ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular',
-      //'angular-resource': '//ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular-resource'
     },
     "shim": {
         "bootstrap": ["jQuery"],
